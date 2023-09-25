@@ -7,6 +7,7 @@ One of these websites, Movies & TV Stack Exchange, is dedicated solely to questi
 
 - General Description
 
+![tables](https://github.com/Aida-Soltani/DataAnalysis_StackExchange/assets/86581780/16a6b9a5-7e2a-4592-80cc-16fb1d89b9fa)
 
 This database consists of 4 tables
 
